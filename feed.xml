@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wordle Spoiler</title>
+    <link>https://archive.org/details/ws_20260119</link>
+    <language>en-us</language>
+    <copyright>Copyright 2026 Abby Manock and Casey Opstad</copyright>
+    <itunes:subtitle>A podcast about spelling, language, and games</itunes:subtitle>
+    <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+    <itunes:summary>A podcast about spelling, language, and games including Wordle and word puzzles. Join hosts Abby Manock and Casey Opstad as they explore the fascinating world of words and wordplay.</itunes:summary>
+    <description>A podcast about spelling, language, and games including Wordle and word puzzles. Join hosts Abby Manock and Casey Opstad as they explore the fascinating world of words and wordplay.</description>
+    <itunes:owner>
+      <itunes:name>Abby Manock and Casey Opstad</itunes:name>
+      <itunes:email>wordlespoilerpodcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://archive.org/download/ws_20260119/WS.jpg"/>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Episode 2 -->
+    <item>
+      <title>How Do You Spell Relief?</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 2 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 2: How Do You Spell Relief?</itunes:summary>
+      <description>Episode 2: How Do You Spell Relief?</description>
+      <enclosure url="https://ia800402.us.archive.org/19/items/wordle-spoiler-e-2-how-do-you-spell-relief/WORDLE%20SPOILER%20e2%20-%20How%20Do%20You%20Spell%20Relief%3F.mp3" type="audio/mpeg" length="13945241"/>
+      <guid>https://ia800402.us.archive.org/19/items/wordle-spoiler-e-2-how-do-you-spell-relief/WORDLE%20SPOILER%20e2%20-%20How%20Do%20You%20Spell%20Relief%3F.mp3</guid>
+      <pubDate>Mon, 19 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>C Where the C Goes</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 1 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 1: C Where the C Goes</itunes:summary>
+      <description>Episode 1: C Where the C Goes</description>
+      <enclosure url="https://dn710300.ca.archive.org/0/items/e-1-c-where-the-c-goes/E1-C%20Where%20the%20C%20Goes.mp3" type="audio/mpeg" length="18664652"/>
+      <guid>https://dn710300.ca.archive.org/0/items/e-1-c-where-the-c-goes/E1-C%20Where%20the%20C%20Goes.mp3</guid>
+      <pubDate>Sun, 18 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:09:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
