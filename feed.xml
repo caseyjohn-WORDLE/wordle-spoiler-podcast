@@ -31,6 +31,7 @@
       <itunes:subtitle>Episode 2 of Wordle Spoiler</itunes:subtitle>
       <itunes:summary>Episode 2: How Do You Spell Relief?</itunes:summary>
       <description>Episode 2: How Do You Spell Relief?</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg"/>
       <enclosure url="https://ia800402.us.archive.org/19/items/wordle-spoiler-e-2-how-do-you-spell-relief/WORDLE%20SPOILER%20e2%20-%20How%20Do%20You%20Spell%20Relief%3F.mp3" type="audio/mpeg" length="13945241"/>
       <guid>https://ia800402.us.archive.org/19/items/wordle-spoiler-e-2-how-do-you-spell-relief/WORDLE%20SPOILER%20e2%20-%20How%20Do%20You%20Spell%20Relief%3F.mp3</guid>
       <pubDate>Mon, 19 Jan 2026 12:00:00 GMT</pubDate>
@@ -45,6 +46,7 @@
       <itunes:subtitle>Episode 1 of Wordle Spoiler</itunes:subtitle>
       <itunes:summary>Episode 1: C Where the C Goes</itunes:summary>
       <description>Episode 1: C Where the C Goes</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg"/>
       <enclosure url="https://dn710300.ca.archive.org/0/items/e-1-c-where-the-c-goes/E1-C%20Where%20the%20C%20Goes.mp3" type="audio/mpeg" length="18664652"/>
       <guid>https://dn710300.ca.archive.org/0/items/e-1-c-where-the-c-goes/E1-C%20Where%20the%20C%20Goes.mp3</guid>
       <pubDate>Sun, 18 Jan 2026 12:00:00 GMT</pubDate>
