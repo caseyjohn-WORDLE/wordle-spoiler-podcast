@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>Copyright 2026 Abby Manock and Casey Opstad</copyright>
     <image>
-      <url>https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg</url>
+      <url>https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2</url>
       <title>Wordle Spoiler</title>
       <link>https://archive.org/details/ws_20260119</link>
     </image>
@@ -20,7 +20,7 @@
       <itunes:name>Abby Manock and Casey Opstad</itunes:name>
       <itunes:email>wordlespoilerpodcast@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg"/>
+    <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
     <itunes:category text="Games &amp; Hobbies">
       <itunes:category text="Video Games"/>
     </itunes:category>
@@ -36,7 +36,7 @@
       <itunes:subtitle>Episode 2 of Wordle Spoiler</itunes:subtitle>
       <itunes:summary>Episode 2: How Do You Spell Relief?</itunes:summary>
       <description>Episode 2: How Do You Spell Relief?</description>
-      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg"/>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
       <enclosure url="https://ia800402.us.archive.org/19/items/wordle-spoiler-e-2-how-do-you-spell-relief/WORDLE%20SPOILER%20e2%20-%20How%20Do%20You%20Spell%20Relief%3F.mp3" type="audio/mpeg" length="13945241"/>
       <guid>https://ia800402.us.archive.org/19/items/wordle-spoiler-e-2-how-do-you-spell-relief/WORDLE%20SPOILER%20e2%20-%20How%20Do%20You%20Spell%20Relief%3F.mp3</guid>
       <pubDate>Mon, 19 Jan 2026 12:00:00 GMT</pubDate>
