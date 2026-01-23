@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 6 -->
+    <item>
+      <title>E6- It's a Healthy Lunch- Wordle 1,679</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 6 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 6: It's a Healthy Lunch- Wordle 1,679</itunes:summary>
+      <description>Episode 6: It's a Healthy Lunch- Wordle 1,679</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600701.us.archive.org/25/items/e-6-its-a-healthy-lunch/E6-It%27s%20a%20Healthy%20Lunch.mp3" type="audio/mpeg" length="25798246"/>
+      <guid>https://ia600701.us.archive.org/25/items/e-6-its-a-healthy-lunch/E6-It%27s%20a%20Healthy%20Lunch.mp3</guid>
+      <pubDate>Thu, 23 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:12:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 5 -->
     <item>
       <title>Circling the Drain</title>
