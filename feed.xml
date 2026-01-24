@@ -29,9 +29,24 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 7 -->
+    <item>
+      <title>E7 - Consonant Combos - Wordle 1,680</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 7 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 7: Consonant Combos - Wordle 1,680</itunes:summary>
+      <description>Episode 7: Consonant Combos - Wordle 1,680</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://archive.org/download/20260124_20260124_1358/e7%20-%20Consonant%20Combos%20-%20Wordle%201%2C680.mp3" type="audio/mpeg" length="14892646"/>
+      <guid>https://archive.org/download/20260124_20260124_1358/e7%20-%20Consonant%20Combos%20-%20Wordle%201%2C680.mp3</guid>
+      <pubDate>Fri, 24 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 6 -->
     <item>
-      <title>E6- It's a Healthy Lunch- Wordle 1,679</title>
+      <title>E6 - It's a Healthy Lunch - Wordle 1,679</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
       <itunes:subtitle>Episode 6 of Wordle Spoiler</itunes:subtitle>
       <itunes:summary>Episode 6: It's a Healthy Lunch- Wordle 1,679</itunes:summary>
@@ -46,7 +61,7 @@
 
     <!-- Episode 5 -->
     <item>
-      <title>Circling the Drain</title>
+      <title>E5 - Circling the Drain - Wordle 1,678</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
       <itunes:subtitle>Episode 5 of Wordle Spoiler</itunes:subtitle>
       <itunes:summary>Episode 5: Circling the Drain</itunes:summary>
