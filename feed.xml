@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 8 -->
+    <item>
+      <title>E8 - Junkyard Rats - Wordle 1,681</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 8 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 8: Junkyard Rats - Wordle 1,681</itunes:summary>
+      <description>Episode 8: Junkyard Rats - Wordle 1,681</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://dn721807.ca.archive.org/0/items/e-8-junkyard-rats-wordle-1-681/e8%20-%20Junkyard%20Rats%20-%20Wordle%201%2C681.mp3" type="audio/mpeg" length="13841203"/>
+      <guid>https://dn721807.ca.archive.org/0/items/e-8-junkyard-rats-wordle-1-681/e8%20-%20Junkyard%20Rats%20-%20Wordle%201%2C681.mp3</guid>
+      <pubDate>Sat, 25 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 7 -->
     <item>
       <title>E7 - Consonant Combos - Wordle 1,680</title>
@@ -76,7 +91,7 @@
 
     <!-- Episode 2 -->
     <item>
-      <title>How Do You Spell Relief?</title>
+      <title>E2 - How Do You Spell Relief? - Wordle 1,675</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
       <itunes:subtitle>Episode 2 of Wordle Spoiler</itunes:subtitle>
       <itunes:summary>Episode 2: How Do You Spell Relief?</itunes:summary>
@@ -91,7 +106,7 @@
 
     <!-- Episode 1 -->
     <item>
-      <title>C Where the C Goes</title>
+      <title>E1 - C Where the C Goes - Wordle 1,674</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
       <itunes:subtitle>Episode 1 of Wordle Spoiler</itunes:subtitle>
       <itunes:summary>Episode 1: C Where the C Goes</itunes:summary>
