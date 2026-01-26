@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 9 -->
+    <item>
+      <title>E9 - The Price is Right - Wordle 1,682</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 9 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 9: The Price is Right - Wordle 1,682</itunes:summary>
+      <description>Episode 9: The Price is Right - Wordle 1,682</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia601600.us.archive.org/9/items/e-9-the-price-is-right-wordle-1-682/e9%20-%20The%20Price%20is%20Right%20-%20Wordle%201%2C682.mp3" type="audio/mpeg" length="12582912"/>
+      <guid>https://ia601600.us.archive.org/9/items/e-9-the-price-is-right-wordle-1-682/e9%20-%20The%20Price%20is%20Right%20-%20Wordle%201%2C682.mp3</guid>
+      <pubDate>Sun, 26 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 8 -->
     <item>
       <title>E8 - Junkyard Rats - Wordle 1,681</title>
@@ -37,10 +52,10 @@
       <itunes:summary>Episode 8: Junkyard Rats - Wordle 1,681</itunes:summary>
       <description>Episode 8: Junkyard Rats - Wordle 1,681</description>
       <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
-      <enclosure url="https://dn721807.ca.archive.org/0/items/e-8-junkyard-rats-wordle-1-681/e8%20-%20Junkyard%20Rats%20-%20Wordle%201%2C681.mp3" type="audio/mpeg" length="13841203"/>
+      <enclosure url="https://dn721807.ca.archive.org/0/items/e-8-junkyard-rats-wordle-1-681/e8%20-%20Junkyard%20Rats%20-%20Wordle%201%2C681.mp3" type="audio/mpeg" length="13003980"/>
       <guid>https://dn721807.ca.archive.org/0/items/e-8-junkyard-rats-wordle-1-681/e8%20-%20Junkyard%20Rats%20-%20Wordle%201%2C681.mp3</guid>
       <pubDate>Sat, 25 Jan 2026 12:00:00 GMT</pubDate>
-      <itunes:duration>00:07:14</itunes:duration>
+      <itunes:duration>00:06:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
