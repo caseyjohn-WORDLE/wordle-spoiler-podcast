@@ -4,13 +4,13 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wordle Spoiler</title>
-    <link>https://archive.org/details/ws_20260119</link>
+    <link>https://abbymanock.com/wordle-spoiler-podcast/1</link>
     <language>en-us</language>
     <copyright>Copyright 2026 Abby Manock and Casey Opstad</copyright>
     <image>
       <url>https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2</url>
       <title>Wordle Spoiler</title>
-      <link>https://archive.org/details/ws_20260119</link>
+      <link>https://abbymanock.com/wordle-spoiler-podcast/1</link>
     </image>
     <itunes:subtitle>A podcast about spelling, language, and games</itunes:subtitle>
     <itunes:author>Abby Manock and Casey Opstad</itunes:author>
@@ -28,6 +28,21 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
+
+    <!-- Episode 10 -->
+    <item>
+      <title>E10 - WordleBot's Favorite Salad - Wordle 1,683</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 10 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 10: WordleBot's Favorite Salad - Wordle 1,683</itunes:summary>
+      <description>Episode 10: WordleBot's Favorite Salad - Wordle 1,683</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia601807.us.archive.org/12/items/e-10-wordle-bots-favorite-salad-wordle-1-683/e10%20-%20WordleBot%27s%20Favorite%20Salad%20-%20Wordle%201%2C683.mp3" type="audio/mpeg" length="15413452"/>
+      <guid>https://ia601807.us.archive.org/12/items/e-10-wordle-bots-favorite-salad-wordle-1-683/e10%20-%20WordleBot%27s%20Favorite%20Salad%20-%20Wordle%201%2C683.mp3</guid>
+      <pubDate>Mon, 27 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <!-- Episode 9 -->
     <item>
