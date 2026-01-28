@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 11 -->
+    <item>
+      <title>E11 - Good Grief - Wordle 1,684</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 11 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 11: Good Grief - Wordle 1,684</itunes:summary>
+      <description>Episode 11: Good Grief - Wordle 1,684</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600802.us.archive.org/34/items/e-11-good-grief-wordle-1-684/e11%20-%20Good%20Grief%20-%20Wordle%201%2C684.mp3" type="audio/mpeg" length="13526425"/>
+      <guid>https://ia600802.us.archive.org/34/items/e-11-good-grief-wordle-1-684/e11%20-%20Good%20Grief%20-%20Wordle%201%2C684.mp3</guid>
+      <pubDate>Tue, 28 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 10 -->
     <item>
       <title>E10 - WordleBot's Favorite Salad - Wordle 1,683</title>
