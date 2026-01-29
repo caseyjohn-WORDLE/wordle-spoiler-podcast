@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 12 -->
+    <item>
+      <title>E12 - Letter Rip, Tater Chip - Wordle 1,685</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 12 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 12: Letter Rip, Tater Chip - Wordle 1,685</itunes:summary>
+      <description>Episode 12: Letter Rip, Tater Chip - Wordle 1,685</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600600.us.archive.org/16/items/e-12-letter-rip-tater-chip-wordle-1-685_202601/e12%20-%20Letter%20Rip%2C%20Tater%20Chip%20-%20Wordle%201%2C685.mp3" type="audio/mpeg" length="12477874"/>
+      <guid>https://ia600600.us.archive.org/16/items/e-12-letter-rip-tater-chip-wordle-1-685_202601/e12%20-%20Letter%20Rip%2C%20Tater%20Chip%20-%20Wordle%201%2C685.mp3</guid>
+      <pubDate>Wed, 29 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 11 -->
     <item>
       <title>E11 - Good Grief - Wordle 1,684</title>
