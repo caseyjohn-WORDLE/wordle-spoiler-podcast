@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 13 -->
+    <item>
+      <title>E13 - Oh, NO! Where Does the "O" Go? - Wordle 1,686</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 13 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 13: Oh, NO! Where Does the "O" Go? - Wordle 1,686</itunes:summary>
+      <description>Episode 13: Oh, NO! Where Does the "O" Go? - Wordle 1,686</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://dn710202.ca.archive.org/0/items/e-13-oh-no-where-does-the-o-go-wordle-1-686/e13%20-%20Oh%2C%20NO%21%20Where%20Does%20the%20%E2%80%9CO%E2%80%9D%20Go%3F%20-%20Wordle%201%2C686.mp3" type="audio/mpeg" length="17513676"/>
+      <guid>https://dn710202.ca.archive.org/0/items/e-13-oh-no-where-does-the-o-go-wordle-1-686/e13%20-%20Oh%2C%20NO%21%20Where%20Does%20the%20%E2%80%9CO%E2%80%9D%20Go%3F%20-%20Wordle%201%2C686.mp3</guid>
+      <pubDate>Thu, 30 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:09:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 12 -->
     <item>
       <title>E12 - Letter Rip, Tater Chip - Wordle 1,685</title>
