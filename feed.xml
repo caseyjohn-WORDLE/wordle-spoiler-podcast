@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 14 -->
+    <item>
+      <title>E14 - A Tidbit About an "L" - Wordle 1,687</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 14 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 14: A Tidbit About an "L" - Wordle 1,687</itunes:summary>
+      <description>Episode 14: A Tidbit About an "L" - Wordle 1,687</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600409.us.archive.org/25/items/e-14-a-tidbit-about-an-l-wordle-1-687/e14%20-%20A%20Tidbit%20About%20an%20%22L%22%20-%20Wordle%201%2C687.mp3" type="audio/mpeg" length="13945241"/>
+      <guid>https://ia600409.us.archive.org/25/items/e-14-a-tidbit-about-an-l-wordle-1-687/e14%20-%20A%20Tidbit%20About%20an%20%22L%22%20-%20Wordle%201%2C687.mp3</guid>
+      <pubDate>Fri, 31 Jan 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 13 -->
     <item>
       <title>E13 - Oh, NO! Where Does the "O" Go? - Wordle 1,686</title>
