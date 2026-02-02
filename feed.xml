@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 16 -->
+    <item>
+      <title>E16 - Totally Agree - Wordle 1,689</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 16 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 16: Totally Agree - Wordle 1,689</itunes:summary>
+      <description>Episode 16: Totally Agree - Wordle 1,689</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia601406.us.archive.org/21/items/e-16-totally-agree-wordle-1-689_202602/e16%20-%20Totally%20Agree%20-%20Wordle%201%2C689.mp3" type="audio/mpeg" length="13631488"/>
+      <guid>https://ia601406.us.archive.org/21/items/e-16-totally-agree-wordle-1-689_202602/e16%20-%20Totally%20Agree%20-%20Wordle%201%2C689.mp3</guid>
+      <pubDate>Sun, 02 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 15 -->
     <item>
       <title>E15 - Lucky Duck - Wordle 1,688</title>
