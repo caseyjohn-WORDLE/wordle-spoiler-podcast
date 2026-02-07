@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 21 -->
+    <item>
+      <title>E21 - Green Sandwich - Wordle 1,694</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 21 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 21: Green Sandwich - Wordle 1,694</itunes:summary>
+      <description>Episode 21: Green Sandwich - Wordle 1,694</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600808.us.archive.org/35/items/e-21-green-sandwich-wordle-1-694/e21%20-%20Green%20Sandwich%20-%20Wordle%201%2C694.mp3" type="audio/mpeg" length="14155776"/>
+      <guid>https://ia600808.us.archive.org/35/items/e-21-green-sandwich-wordle-1-694/e21%20-%20Green%20Sandwich%20-%20Wordle%201%2C694.mp3</guid>
+      <pubDate>Fri, 07 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 20 -->
     <item>
       <title>E20 - Better Than a Scowl - Wordle 1,693</title>
