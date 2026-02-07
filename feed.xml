@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 20 -->
+    <item>
+      <title>E20 - Better Than a Scowl - Wordle 1,693</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 20 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 20: Better Than a Scowl - Wordle 1,693</itunes:summary>
+      <description>Episode 20: Better Than a Scowl - Wordle 1,693</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia903204.us.archive.org/32/items/e-20-better-than-a-scowl-wordle-1-693/e20%20-%20Better%20Than%20a%20Scowl%20-%20Wordle%201%2C693.mp3" type="audio/mpeg" length="16990003"/>
+      <guid>https://ia903204.us.archive.org/32/items/e-20-better-than-a-scowl-wordle-1-693/e20%20-%20Better%20Than%20a%20Scowl%20-%20Wordle%201%2C693.mp3</guid>
+      <pubDate>Thu, 06 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:09:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 17 -->
     <item>
       <title>E17 - Life Goes On, Wordle Keeps Spinning - Wordle 1,690</title>
