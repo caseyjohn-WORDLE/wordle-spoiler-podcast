@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 22 -->
+    <item>
+      <title>E22 - A Spoil of Greys - Wordle 1,695</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 22 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 22: A Spoil of Greys - Wordle 1,695</itunes:summary>
+      <description>Episode 22: A Spoil of Greys - Wordle 1,695</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia601909.us.archive.org/8/items/e-22-a-spoil-of-greys-wordle-1-695/e22%20-%20A%20Spoil%20of%20Greys%20-%20Wordle%201%2C695.mp3" type="audio/mpeg" length="14574387"/>
+      <guid>https://ia601909.us.archive.org/8/items/e-22-a-spoil-of-greys-wordle-1-695/e22%20-%20A%20Spoil%20of%20Greys%20-%20Wordle%201%2C695.mp3</guid>
+      <pubDate>Sat, 08 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 21 -->
     <item>
       <title>E21 - Green Sandwich - Wordle 1,694</title>
