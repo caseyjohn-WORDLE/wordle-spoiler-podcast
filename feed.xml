@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Bonus Episode -->
+    <item>
+      <title>Bonus Episode - A Second Cigar</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Bonus Episode of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Bonus Episode: A Second Cigar - NY Times changes Wordle rules to allow repeated words</itunes:summary>
+      <description>Bonus Episode: A Second Cigar - NY Times changes Wordle rules to allow repeated words</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia903200.us.archive.org/27/items/bouns-episode-a-second-cigar/Bouns%20Episode%20-%20A%20Second%20Cigar.mp3" type="audio/mpeg" length="18979225"/>
+      <guid>https://ia903200.us.archive.org/27/items/bouns-episode-a-second-cigar/Bouns%20Episode%20-%20A%20Second%20Cigar.mp3</guid>
+      <pubDate>Sat, 08 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:09:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Episode 22 -->
     <item>
       <title>E22 - A Spoil of Greys - Wordle 1,695</title>
