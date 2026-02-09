@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 23 -->
+    <item>
+      <title>E23 - Hello, Goodbye - Wordle 1,696</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 23 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 23: Hello, Goodbye - Wordle 1,696</itunes:summary>
+      <description>Episode 23: Hello, Goodbye - Wordle 1,696</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600901.us.archive.org/26/items/e-23-hello-goodbye-wordle-1-696/e23%20-%20Hello%2C%20Goodbye%20-%20Wordle%201%2C696.mp3" type="audio/mpeg" length="15832678"/>
+      <guid>https://ia600901.us.archive.org/26/items/e-23-hello-goodbye-wordle-1-696/e23%20-%20Hello%2C%20Goodbye%20-%20Wordle%201%2C696.mp3</guid>
+      <pubDate>Sun, 09 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:08:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <!-- Bonus Episode -->
     <item>
       <title>Bonus Episode - A Second Cigar</title>
