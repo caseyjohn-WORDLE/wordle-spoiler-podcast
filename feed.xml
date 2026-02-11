@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
@@ -28,6 +29,21 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
+
+    <!-- Episode 25 -->
+    <item>
+      <title>E25 - Strait Linear Lines - Wordle 1,698</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 25 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 25: Strait Linear Lines - Wordle 1,698</itunes:summary>
+      <description>Episode 25: Strait Linear Lines - Wordle 1,698</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia903207.us.archive.org/4/items/e-25-strait-linear-lines-wordle-1-698/e25%20-%20Strait%20Linear%20Lines%20-%20Wordle%201%2C698.mp3" type="audio/mpeg" length="18454118"/>
+      <guid>https://ia903207.us.archive.org/4/items/e-25-strait-linear-lines-wordle-1-698/e25%20-%20Strait%20Linear%20Lines%20-%20Wordle%201%2C698.mp3</guid>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:09:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
       <!-- Episode 24 -->
     <item>
