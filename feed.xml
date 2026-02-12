@@ -30,6 +30,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+           <!-- Episode 26 -->
+    <item>
+      <title>E26 - Pop Star Share - Wordle 1,699</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 26 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 26: Pop Star Share - Wordle 1,699</itunes:summary>
+      <description>Episode 26: Pop Star Share - Wordle 1,699</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600803.us.archive.org/28/items/e-26-pop-star-share-wordle-1-699/e26%20-%20Pop%20Star%20Share%20-%20Wordle%201%2C699.mp3" type="audio/mpeg" length="17301504"/>
+      <guid>https://ia600803.us.archive.org/28/items/e-26-pop-star-share-wordle-1-699/e26%20-%20Pop%20Star%20Share%20-%20Wordle%201%2C699.mp3</guid>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:09:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
     <!-- Episode 25 -->
     <item>
       <title>E25 - Strait Linear Lines - Wordle 1,698</title>
