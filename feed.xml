@@ -28,7 +28,21 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-   
+
+     <item>
+      <title>E30 - One Half of a Live Goose - Wordle 1,703</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 30 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 30: One Half of a Live Goose - Wordle 1,703</itunes:summary>
+      <description>Episode 30: One Half of a Live Goose - Wordle 1,703</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600106.us.archive.org/27/items/e-30-one-half-of-a-live-goose-wordle-1-703/e30%20-%20%20One%20Half%20of%20a%20Live%20Goose%20-%20Wordle%201%2C703.mp3" type="audio/mpeg" length="15100000"/>
+      <guid>https://ia600106.us.archive.org/27/items/e-30-one-half-of-a-live-goose-wordle-1-703/e30%20-%20%20One%20Half%20of%20a%20Live%20Goose%20-%20Wordle%201%2C703.mp3</guid>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:08:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
        <!-- Episode 29 -->
     <item>
       <title>E29 - Fuzzy or Buzzy? - Wordle 1,702</title>
