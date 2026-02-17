@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+xml<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -29,7 +29,7 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-        <!-- Episode 31 -->
+    <!-- Episode 31 -->
     <item>
       <title>E31 - Wild Card Trend - Wordle 1,704</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
@@ -42,9 +42,9 @@
       <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
       <itunes:duration>00:08:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-    </item> 
+    </item>
 
-       <!-- Episode 30 -->
+    <!-- Episode 30 -->
     <item>
       <title>E30 - One Half of a Live Goose - Wordle 1,703</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
@@ -58,8 +58,8 @@
       <itunes:duration>00:08:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-       
-       <!-- Episode 29 -->
+
+    <!-- Episode 29 -->
     <item>
       <title>E29 - Fuzzy or Buzzy? - Wordle 1,702</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
@@ -73,8 +73,8 @@
       <itunes:duration>00:07:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-   
-       <!-- Episode 28 -->
+
+    <!-- Episode 28 -->
     <item>
       <title>E28 - Being There - Wordle 1,701</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
