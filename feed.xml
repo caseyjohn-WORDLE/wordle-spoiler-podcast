@@ -29,7 +29,23 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-     <item>
+        <!-- Episode 31 -->
+    <item>
+      <title>E31 - Wild Card Trend - Wordle 1,704</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 31 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 31: Wild Card Trend - Wordle 1,704</itunes:summary>
+      <description>Episode 31: Wild Card Trend - Wordle 1,704</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia903104.us.archive.org/30/items/e-31-wild-card-trend-wordle-1-704/e31%20-%20%20Wild%20Card%20Trend%20-%20Wordle%201%2C704.mp3" type="audio/mpeg" length="15600000"/>
+      <guid>https://ia903104.us.archive.org/30/items/e-31-wild-card-trend-wordle-1-704/e31%20-%20%20Wild%20Card%20Trend%20-%20Wordle%201%2C704.mp3</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:08:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item> 
+
+       <!-- Episode 30 -->
+    <item>
       <title>E30 - One Half of a Live Goose - Wordle 1,703</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
       <itunes:subtitle>Episode 30 of Wordle Spoiler</itunes:subtitle>
