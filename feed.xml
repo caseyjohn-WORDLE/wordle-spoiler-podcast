@@ -28,7 +28,22 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    
+       
+      <!-- Episode 33 -->
+    <item>
+      <title>E33 - Imaginary Forest With Robert Frost - Wordle 1,706</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 33 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 33: Imaginary Forest With Robert Frost - Wordle 1,706</itunes:summary>
+      <description>Episode 33: Imaginary Forest With Robert Frost - Wordle 1,706</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia601008.us.archive.org/15/items/e-33-imaginary-forest-with-robert-frost-wordle-1-706/e33%20-%20%20Imaginary%20Forest%20With%20Robert%20Frost%20-%20Wordle%201%2C706.mp3" type="audio/mpeg" length="12200000"/>
+      <guid>https://ia601008.us.archive.org/15/items/e-33-imaginary-forest-with-robert-frost-wordle-1-706/e33%20-%20%20Imaginary%20Forest%20With%20Robert%20Frost%20-%20Wordle%201%2C706.mp3</guid>
+      <pubDate>Thu, 19 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
     <!-- Episode 32 -->
     <item>
       <title>E32 - It Was Close - Wordle 1,705</title>
