@@ -28,6 +28,21 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
+
+       <!-- Episode 34 -->
+    <item>
+      <title>E34 - Not a Scratch-N-Sniff Podcast - Wordle 1,707</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 34 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 34: Not a Scratch-N-Sniff Podcast - Wordle 1,707</itunes:summary>
+      <description>Episode 34: Not a Scratch-N-Sniff Podcast - Wordle 1,707</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600607.us.archive.org/35/items/e-34-not-a-scratch-n-sniff-podcast-wordle-1-707/e34%20-%20%20Not%20a%20Scratch-N-Sniff%20Podcast%20-%20Wordle%201%2C707.mp3" type="audio/mpeg" length="14600000"/>
+      <guid>https://ia600607.us.archive.org/35/items/e-34-not-a-scratch-n-sniff-podcast-wordle-1-707/e34%20-%20%20Not%20a%20Scratch-N-Sniff%20Podcast%20-%20Wordle%201%2C707.mp3</guid>
+      <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
        
       <!-- Episode 33 -->
     <item>
