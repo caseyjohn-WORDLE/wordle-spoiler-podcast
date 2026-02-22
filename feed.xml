@@ -29,7 +29,22 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-          <!-- Episode 35 -->
+       <!-- Episode 36 -->
+    <item>
+      <title>E36 - A Different Beast - Wordle 1,709</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 36 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 36: A Different Beast - Wordle 1,709</itunes:summary>
+      <description>Episode 36: A Different Beast - Wordle 1,709</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia800400.us.archive.org/29/items/e-36-a-different-beast-wordle-1-709/e36%20-%20%20A%20Different%20Beast%20-%20Wordle%201%2C709.mp3" type="audio/mpeg" length="16600000"/>
+      <guid>https://ia800400.us.archive.org/29/items/e-36-a-different-beast-wordle-1-709/e36%20-%20%20A%20Different%20Beast%20-%20Wordle%201%2C709.mp3</guid>
+      <pubDate>Sun, 22 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+       
+       <!-- Episode 35 -->
     <item>
       <title>E35 - Green Fingered Salute - Wordle 1,708</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
