@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+      <!-- Episode 37 -->
+    <item>
+      <title>E37 - Dusty Treasures - Wordle 1,710</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 37 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 37: Dusty Treasures - Wordle 1,710</itunes:summary>
+      <description>Episode 37: Dusty Treasures - Wordle 1,710</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600400.us.archive.org/30/items/e-37-dusty-treasures-wordle-1-710/e37%20-%20%20Dusty%20Treasures-%20Wordle%201%2C710.mp3" type="audio/mpeg" length="12800000"/>
+      <guid>https://ia600400.us.archive.org/30/items/e-37-dusty-treasures-wordle-1-710/e37%20-%20%20Dusty%20Treasures-%20Wordle%201%2C710.mp3</guid>
+      <pubDate>Mon, 23 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
        <!-- Episode 36 -->
     <item>
       <title>E36 - A Different Beast - Wordle 1,709</title>
