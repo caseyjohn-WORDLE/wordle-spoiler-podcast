@@ -29,7 +29,22 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-      <!-- Episode 37 -->
+      <!-- Episode 38 -->
+    <item>
+      <title>E38 - It Could Be Worse - Wordle 1,711</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 38 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 38: It Could Be Worse - Wordle 1,711</itunes:summary>
+      <description>Episode 38: It Could Be Worse - Wordle 1,711</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600406.us.archive.org/18/items/e-38-it-could-be-worse-wordle-1-711_202602/e38%20-%20%20It%20Could%20Be%20Worse%20-%20Wordle%201%2C711.mp3" type="audio/mpeg" length="12200000"/>
+      <guid>https://ia600406.us.archive.org/18/items/e-38-it-could-be-worse-wordle-1-711_202602/e38%20-%20%20It%20Could%20Be%20Worse%20-%20Wordle%201%2C711.mp3</guid>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
+       <!-- Episode 37 -->
     <item>
       <title>E37 - Dusty Treasures - Wordle 1,710</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
