@@ -29,7 +29,22 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-      <!-- Episode 38 -->
+      <!-- Episode 39 -->
+    <item>
+      <title>E39 - A Shrew With a Long Nose - Wordle 1,712</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 39 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 39: A Shrew With a Long Nose - Wordle 1,712</itunes:summary>
+      <description>Episode 39: A Shrew With a Long Nose - Wordle 1,712</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600606.us.archive.org/24/items/e-39-a-shrew-with-a-long-nose-wordle-1-712/e39%20-%20A%20Shrew%20With%20a%20Long%20Nose%20%20-%20Wordle%201%2C712.mp3" type="audio/mpeg" length="16200000"/>
+      <guid>https://ia600606.us.archive.org/24/items/e-39-a-shrew-with-a-long-nose-wordle-1-712/e39%20-%20A%20Shrew%20With%20a%20Long%20Nose%20%20-%20Wordle%201%2C712.mp3</guid>
+      <pubDate>Wed, 25 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:08:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
+       <!-- Episode 38 -->
     <item>
       <title>E38 - It Could Be Worse - Wordle 1,711</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
