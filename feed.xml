@@ -29,7 +29,22 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-      <!-- Episode 39 -->
+       <!-- Episode 40 -->
+    <item>
+      <title>E40 - Our Guest Won't Be Quiet - Wordle 1,713</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 40 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 40: Our Guest Won't Be Quiet - Wordle 1,713</itunes:summary>
+      <description>Episode 40: Our Guest Won't Be Quiet - Wordle 1,713</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600404.us.archive.org/22/items/e-40-our-guest-wont-be-quiet-wordle-1-713/e40%20-%20Our%20Guest%20Won%27t%20Be%20Quiet%20%20-%20Wordle%201%2C713.mp3" type="audio/mpeg" length="12200000"/>
+      <guid>https://ia600404.us.archive.org/22/items/e-40-our-guest-wont-be-quiet-wordle-1-713/e40%20-%20Our%20Guest%20Won%27t%20Be%20Quiet%20%20-%20Wordle%201%2C713.mp3</guid>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item> Opus 4.6Extended
+       
+       <!-- Episode 39 -->
     <item>
       <title>E39 - A Shrew With a Long Nose - Wordle 1,712</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
