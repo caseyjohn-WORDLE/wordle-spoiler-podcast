@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+          <!-- Episode 41 -->
+    <item>
+      <title>E41 - Daddy Pizza Puppy - Wordle 1,714</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 41 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 41: Daddy Pizza Puppy - Wordle 1,714</itunes:summary>
+      <description>Episode 41: Daddy Pizza Puppy - Wordle 1,714</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia600500.us.archive.org/27/items/e-41-daddy-pizza-puppy-wordle-1-714/e41%20-%20Daddy%20Pizza%20Puppy%20-%20Wordle%201%2C714.mp3" type="audio/mpeg" length="11600000"/>
+      <guid>https://ia600500.us.archive.org/27/items/e-41-daddy-pizza-puppy-wordle-1-714/e41%20-%20Daddy%20Pizza%20Puppy%20-%20Wordle%201%2C714.mp3</guid>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
        <!-- Episode 40 -->
     <item>
       <title>E40 - Our Guest Won't Be Quiet - Wordle 1,713</title>
