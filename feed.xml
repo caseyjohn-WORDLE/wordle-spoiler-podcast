@@ -29,7 +29,22 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-          <!-- Episode 41 -->
+      <!-- Episode 42 -->
+    <item>
+      <title>E42 - Heros of Might &amp; Magic - Wordle 1,715</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 42 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 42: Heros of Might &amp; Magic - Wordle 1,715</itunes:summary>
+      <description>Episode 42: Heros of Might &amp; Magic - Wordle 1,715</description>
+      <itunes:image href="https://caseyjohn-wordle.github.io/wordle-spoiler-podcast/WS.jpg?v=2"/>
+      <enclosure url="https://ia903208.us.archive.org/34/items/e-42-heros-of-might-magic-wordle-1-715/e42%20-%20Heros%20of%20Might%20%26%20Magic%20-%20Wordle%201%2C715.mp3" type="audio/mpeg" length="14100000"/>
+      <guid>https://ia903208.us.archive.org/34/items/e-42-heros-of-might-magic-wordle-1-715/e42%20-%20Heros%20of%20Might%20%26%20Magic%20-%20Wordle%201%2C715.mp3</guid>
+      <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:07:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>    
+       
+       <!-- Episode 41 -->
     <item>
       <title>E41 - Daddy Pizza Puppy - Wordle 1,714</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
