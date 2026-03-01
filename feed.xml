@@ -28,8 +28,23 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-
-      <!-- Episode 42 -->
+     
+       <!-- Episode 43 -->
+    <item>
+      <title>E43 - It Was Not Knife - Wordle 1,716</title>
+      <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+      <itunes:subtitle>Episode 43 of Wordle Spoiler</itunes:subtitle>
+      <itunes:summary>Episode 43: It Was Not Knife - Wordle 1,716</itunes:summary>
+      <description>Episode 43: It Was Not Knife - Wordle 1,716</description>
+      <itunes:image href="https://raw.githubusercontent.com/caseyjohn-WORDLE/wordle-spoiler-podcast/main/Wordle%20Spoiler%20Logo2.jpg"/>
+      <enclosure url="https://ia600104.us.archive.org/0/items/e-43-it-was-not-knife-wordle-1-716/e43%20-%20It%20Was%20Not%20Knife%20-%20Wordle%201%2C716.mp3" type="audio/mpeg" length="11900000"/>
+      <guid>https://ia600104.us.archive.org/0/items/e-43-it-was-not-knife-wordle-1-716/e43%20-%20It%20Was%20Not%20Knife%20-%20Wordle%201%2C716.mp3</guid>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>00:06:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+       <!-- Episode 42 -->
     <item>
       <title>E42 - Heros of Might &amp; Magic - Wordle 1,715</title>
       <itunes:author>Abby Manock and Casey Opstad</itunes:author>
