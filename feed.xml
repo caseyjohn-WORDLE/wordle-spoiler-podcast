@@ -29,6 +29,19 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
      
+     <item>
+  <title>Ep. 44 - Let the Fun Ensue - Wordle 1,717</title>
+  <description>Casey and Abby discuss Wordle 1,717.</description>
+  <enclosure url="https://ia601407.us.archive.org/23/items/e-44-let-the-fun-ensue-wordle-1-717/e44%20-%20Let%20the%20Fun%20Ensue%20-%20Wordle%201%2C717.mp3" length="15938355" type="audio/mpeg"/>
+  <guid>https://ia601407.us.archive.org/23/items/e-44-let-the-fun-ensue-wordle-1-717/e44%20-%20Let%20the%20Fun%20Ensue%20-%20Wordle%201%2C717.mp3</guid>
+  <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+  <itunes:title>Ep. 44 - Let the Fun Ensue - Wordle 1,717</itunes:title>
+  <itunes:duration>8:17</itunes:duration>
+  <itunes:episode>44</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>false</itunes:explicit>
+     </item>
+       
        <!-- Episode 43 -->
     <item>
       <title>E43 - It Was Not Knife - Wordle 1,716</title>
