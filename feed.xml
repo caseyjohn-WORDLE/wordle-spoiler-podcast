@@ -28,6 +28,19 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
+
+      <!-- Episode 47 -->
+       <item>
+  <title>e47 - Geode Is A Five Letter Word - Wordle 1,720</title>
+  <description>e47 - Geode Is A Five Letter Word - Wordle 1,720</description>
+  <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+  <enclosure url="https://ia601600.us.archive.org/1/items/e-47-geode-is-a-five-letter-word-wordle-1-720/e47%20-%20Geode%20Is%20A%20Five%20Letter%20Word%20%20-%20Wordle%201%2C720.mp3" length="15938355" type="audio/mpeg"/>
+  <guid isPermaLink="false">wordle-spoiler-podcast-e47</guid>
+  <itunes:title>e47 - Geode Is A Five Letter Word - Wordle 1,720</itunes:title>
+  <itunes:episode>47</itunes:episode>
+  <itunes:duration>00:08:17</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+       </item>
        
        <!-- Episode 46 -->
     <item>
