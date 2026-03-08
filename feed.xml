@@ -44,7 +44,7 @@
   <itunes:episode>50</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
   <itunes:explicit>false</itunes:explicit>
-       <item>
+       </item>
 
       <!-- Episode 49 -->
        <item>
@@ -61,7 +61,7 @@
   <itunes:episode>49</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
   <itunes:explicit>false</itunes:explicit>
-       <item>
+       </item>
 
       <!-- Episode 48 -->
        <item>
@@ -78,7 +78,7 @@
   <itunes:episode>48</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
   <itunes:explicit>false</itunes:explicit>
-       <item>
+       </item>
        
        <!-- Episode 47 -->
        <item>
