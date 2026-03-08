@@ -29,7 +29,58 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-      <!-- Episode 47 -->
+       <!-- Episode 50 -->
+       <item>
+  <title>Ep. 50 - Blown It All To Bits - Wordle 1,723</title>
+  <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+  <itunes:subtitle>Episode 50 of Wordle Spoiler</itunes:subtitle>
+  <itunes:summary>e50 - Blown It All To Bits - Wordle 1,723</itunes:summary>
+  <description>e50 - Blown It All To Bits - Wordle 1,723</description>
+  <itunes:image href="https://raw.githubusercontent.com/caseyjohn-WORDLE/wordle-spoiler-podcast/main/Wordle%20Spoiler%20Logo2.jpg"/>
+  <enclosure url="https://ia601602.us.archive.org/26/items/e-50-blown-it-all-to-bits-wordle-1-723_202603/e50%20-%20Blown%20It%20All%20To%20Bits%20%20-%20Wordle%201%2C723.mp3" length="17932492" type="audio/mpeg"/>
+  <guid>https://ia601602.us.archive.org/26/items/e-50-blown-it-all-to-bits-wordle-1-723_202603/e50%20-%20Blown%20It%20All%20To%20Bits%20%20-%20Wordle%201%2C723.mp3</guid>
+  <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+  <itunes:duration>9:22</itunes:duration>
+  <itunes:episode>50</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>false</itunes:explicit>
+       <item>
+
+      <!-- Episode 49 -->
+       <item>
+  <title>Ep. 49 - First Stop On The Wordle Bus - Wordle 1,722</title>
+  <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+  <itunes:subtitle>Episode 49 of Wordle Spoiler</itunes:subtitle>
+  <itunes:summary>e49 - First Stop On The Wordle Bus - Wordle 1,722</itunes:summary>
+  <description>e49 - First Stop On The Wordle Bus - Wordle 1,722</description>
+  <itunes:image href="https://raw.githubusercontent.com/caseyjohn-WORDLE/wordle-spoiler-podcast/main/Wordle%20Spoiler%20Logo2.jpg"/>
+  <enclosure url="https://ia600800.us.archive.org/4/items/e-49-first-stop-on-the-wordle-bus-wordle-1-722/e49%20-%20First%20Stop%20On%20The%20Wordle%20Bus%20%20-%20Wordle%201%2C722.mp3" length="11324620" type="audio/mpeg"/>
+  <guid>https://ia600800.us.archive.org/4/items/e-49-first-stop-on-the-wordle-bus-wordle-1-722/e49%20-%20First%20Stop%20On%20The%20Wordle%20Bus%20%20-%20Wordle%201%2C722.mp3</guid>
+  <pubDate>Sat, 07 Mar 2026 12:00:00 +0000</pubDate>
+  <itunes:duration>5:52</itunes:duration>
+  <itunes:episode>49</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>false</itunes:explicit>
+       <item>
+
+      <!-- Episode 48 -->
+       <item>
+  <title>Ep. 48 - Play That Funky Music Til You Die - Wordle 1,721</title>
+  <itunes:author>Abby Manock and Casey Opstad</itunes:author>
+  <itunes:subtitle>Episode 48 of Wordle Spoiler</itunes:subtitle>
+  <itunes:summary>e48 - Play That Funky Music Til You Die - Wordle 1,721</itunes:summary>
+  <description>e48 - Play That Funky Music Til You Die - Wordle 1,721</description>
+  <itunes:image href="https://raw.githubusercontent.com/caseyjohn-WORDLE/wordle-spoiler-podcast/main/Wordle%20Spoiler%20Logo2.jpg"/>
+  <enclosure url="https://ia600800.us.archive.org/17/items/e-48-play-that-funky-music-til-you-die-wordle-1-721/e48%20-%20Play%20That%20Funky%20Music%20Til%20You%20Die%20%20-%20Wordle%201%2C721.mp3" length="15413452" type="audio/mpeg"/>
+  <guid>https://ia600800.us.archive.org/17/items/e-48-play-that-funky-music-til-you-die-wordle-1-721/e48%20-%20Play%20That%20Funky%20Music%20Til%20You%20Die%20%20-%20Wordle%201%2C721.mp3</guid>
+  <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+  <itunes:duration>8:02</itunes:duration>
+  <itunes:episode>48</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:explicit>false</itunes:explicit>
+       <item>
+       
+       <!-- Episode 47 -->
        <item>
   <title>e47 - Geode Is A Five Letter Word - Wordle 1,720</title>
   <description>e47 - Geode Is A Five Letter Word - Wordle 1,720</description>
