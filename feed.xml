@@ -29,7 +29,52 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
-       <!-- Episode 50 -->
+     <!-- Episode 54 -->
+      <item>
+  <title>e54 - Smell Like Teen Spirit - Wordle 1,727</title>
+  <description>e54 - Smell Like Teen Spirit - Wordle 1,727</description>
+  <itunes:summary>e54 - Smell Like Teen Spirit - Wordle 1,727</itunes:summary>
+  <enclosure url="https://ia600407.us.archive.org/25/items/e-54-smell-like-teen-spirit-wordle-1-727/e54%20-%20Smell%20Like%20Teen%20Spirit%20-%20Wordle%201%2C727.mp3" length="9600000" type="audio/mpeg"/>
+  <guid>https://ia600407.us.archive.org/25/items/e-54-smell-like-teen-spirit-wordle-1-727/e54%20-%20Smell%20Like%20Teen%20Spirit%20-%20Wordle%201%2C727.mp3</guid>
+  <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+  <itunes:duration>5:15</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:episode>54</itunes:episode>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://raw.githubusercontent.com/caseyjohn-WORDLE/wordle-spoiler-podcast/main/Wordle%20Spoiler%20Logo2.jpg"/>
+       </item>
+       
+       <!-- Episode 53 -->
+       <item>
+  <title>e53 - Worry, He's Not Friendly - Wordle 1,726</title>
+  <description>e53 - Worry, He's Not Friendly - Wordle 1,726</description>
+  <itunes:summary>e53 - Worry, He's Not Friendly - Wordle 1,726</itunes:summary>
+  <enclosure url="https://ia903104.us.archive.org/25/items/e-53-worry-hes-not-friendly-wordle-1-726/e53%20-%20Worry%2C%20He%27s%20Not%20Friendly%20-%20Wordle%201%2C726.mp3" length="11300000" type="audio/mpeg"/>
+  <guid>https://ia903104.us.archive.org/25/items/e-53-worry-hes-not-friendly-wordle-1-726/e53%20-%20Worry%2C%20He%27s%20Not%20Friendly%20-%20Wordle%201%2C726.mp3</guid>
+  <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+  <itunes:duration>6:09</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:episode>53</itunes:episode>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://raw.githubusercontent.com/caseyjohn-WORDLE/wordle-spoiler-podcast/main/Wordle%20Spoiler%20Logo2.jpg"/>
+       </item>
+       
+       <!-- Episode 52 -->
+       <item>
+  <title>e52 - Slam Bam It Goes There - Wordle 1,725</title>
+  <description>e52 - Slam Bam It Goes There - Wordle 1,725</description>
+  <itunes:summary>e52 - Slam Bam It Goes There - Wordle 1,725</itunes:summary>
+  <enclosure url="https://ia601505.us.archive.org/9/items/e-52-slam-bam-it-goes-there-wordle-1-725/e52%20-%20Slam%20Bam%20It%20Goes%20There%20-%20Wordle%201%2C725.mp3" length="13500000" type="audio/mpeg"/>
+  <guid>https://ia601505.us.archive.org/9/items/e-52-slam-bam-it-goes-there-wordle-1-725/e52%20-%20Slam%20Bam%20It%20Goes%20There%20-%20Wordle%201%2C725.mp3</guid>
+  <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+  <itunes:duration>7:23</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:episode>52</itunes:episode>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://raw.githubusercontent.com/caseyjohn-WORDLE/wordle-spoiler-podcast/main/Wordle%20Spoiler%20Logo2.jpg"/>
+      </item>
+       
+       <!-- Episode 51 -->
        <item>
   <title>e51 - Simple Thing - Wordle #1,724</title>
   <enclosure url="https://ia601906.us.archive.org/31/items/e-51-simple-thing-wordle-1-724/e51%20-%20Simple%20Thing%20-%20Wordle%201%2C724.mp3" length="14155776" type="audio/mpeg"/>
